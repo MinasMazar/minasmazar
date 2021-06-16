@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Solidus
+- 🔭 I’m currently working on [Solidus](https://solidus.io/)
 - 🌱 I’m currently learning Ruby/Elixir/Emacs
 - 📫 How to reach me: minasmazar@gmail.com
 - 😄 Pronouns: 🤔
